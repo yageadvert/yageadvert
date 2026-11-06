@@ -1,16 +1,34 @@
-## Hi there 👋
+### Junior Data Scientist | Ex-Lead Product Manager
 
-<!--
-**yageadvert/yageadvert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Lead Product Manager в прошлом, сейчас развиваюсь в Data Science. Соединяю продуктовое мышление, понимание бизнес-метрик и навыки анализа данных, чтобы превращать бизнес-вопросы в измеримые аналитические решения.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Стек
+- Python: Pandas, NumPy, Matplotlib, Seaborn
+- SQL: сложные выборки, JOIN, CTE, оконные функции, агрегации
+- Статистика: проверка гипотез, A/B-тесты
+- Machine Learning: scikit-learn, регрессия, классификация, кластеризация
+- Data: очистка, нормализация, EDA, feature engineering
+- Продуктовая аналитика: retention, конверсия, воронки
+
+
+#### Проекты
+- [Yandex Afisha Loyalty Analysis](https://github.com/yageadvert/yandex-afisha-loyalty-analysis) — построил сквозной анализ 216 тыс. покупок на SQL, PostgreSQL и Pandas; создал признаки на уровне пользователей и выявил поведенческие паттерны, связанные с повторными покупками.  
+- [Game Sales Analysis](https://github.com/yageadvert/game-sales-analysis) — провёл исследовательский анализ данных о продажах видеоигр на Python и Pandas; оценил тренды по платформам, жанрам и регионам, чтобы определить факторы коммерческого успеха.  
+- [Public Catering in Moscow](https://github.com/yageadvert/public_caterind_msk) — проанализировал данные рынка общественного питания Москвы, оценил категории заведений, конкурентную среду и перспективные локации для нового бизнеса.  
+- [VseTut Project](https://github.com/yageadvert/vsetut_project) — подготовил и исследовал данные сервиса, сформулировал аналитические вопросы и подготовил выводы для поддержки продуктовых и бизнес-решений.  
+
+
+#### Сейчас изучаю
+- ML-пайплайны, оценка качества моделей
+- Deep Learning: PyTorch / TensorFlow
+- MLOps: основы деплоя и мониторинга моделей
+
+#### Почему я
+- Умею превращать бизнес-вопрос в аналитическую задачу
+- Понимаю как связать модель с продуктовыми и бизнес-метриками
+- Опыт управления командами и запуска продуктов помогает быстро включаться в кросс-функциональную работу
+
+#### Ищу
+- Junior Data Scientist / Trainee Data Scientist  
+- Команды, где data science влияет на продукт и бизнес-решения
