@@ -15,7 +15,7 @@ Lead Product Manager в прошлом, сейчас развиваюсь в Dat
 #### Проекты
 - [Yandex Afisha Loyalty Analysis](https://github.com/yageadvert/yandex-afisha-loyalty-analysis) — построил сквозной анализ 216 тыс. покупок на SQL, PostgreSQL и Pandas; создал признаки на уровне пользователей и выявил поведенческие паттерны, связанные с повторными покупками.  
 - [Game Sales Analysis](https://github.com/yageadvert/game-sales-analysis) — провёл исследовательский анализ данных о продажах видеоигр на Python и Pandas; оценил тренды по платформам, жанрам и регионам, чтобы определить факторы коммерческого успеха.  
-- [Public Catering in Moscow](https://github.com/yageadvert/public_caterind_msk) — проанализировал данные рынка общественного питания Москвы, оценил категории заведений, конкурентную среду и перспективные локации для нового бизнеса.  
+- [Public Catering in Moscow](https://github.com/yageadvert/catering_msk) — проанализировал данные рынка общественного питания Москвы, оценил категории заведений, конкурентную среду и перспективные локации для нового бизнеса.  
 - [VseTut Project](https://github.com/yageadvert/vsetut_project) — подготовил и исследовал данные сервиса, сформулировал аналитические вопросы и подготовил выводы для поддержки продуктовых и бизнес-решений.  
 
 
